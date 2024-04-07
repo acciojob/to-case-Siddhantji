@@ -1,5 +1,7 @@
 function toCase(text) {
   // write your code here
+	let car = text.toLowercase+"-"+text.toUpperCase;
+	return car;
 }
 
 // DO not change the code below
